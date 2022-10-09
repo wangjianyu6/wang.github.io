@@ -1,0 +1,161 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://bk.yyq520.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 2384,
+            "children": [
+                {
+                    "url": "http://bk.yyq520.com/assets/img/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://v1.hitokoto.cn/?encode=js&select=%23hitokoto",
+                    "path": "js/index.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://bk.yyq520.com/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 3279,
+                    "children": [
+                        {
+                            "url": "http://bk.yyq520.com/font/a.ttf",
+                            "path": "fonts/a.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://bk.yyq520.com/assets/img/zuobiao.svg",
+                            "path": "img/zuobiao.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://bk.yyq520.com/assets/img/web.svg",
+                            "path": "img/web.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://bk.yyq520.com/assets/img/qq.svg",
+                            "path": "img/qq.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://bk.yyq520.com/assets/img/admin.svg",
+                            "path": "img/admin.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://bk.yyq520.com/assets/img/zfb.svg",
+                            "path": "img/zfb.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://bk.yyq520.com/assets/img/github.svg",
+                            "path": "img/github.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://bk.yyq520.com/assets/img/vx.svg",
+                            "path": "img/vx.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://bk.yyq520.com/assets/img/footweb.svg",
+                            "path": "img/footweb.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://bk.yyq520.com/%3Cbr%20/%3E%0A%3Cb%3ENotice%3C/b%3E:%20%20Undefined%20index:%20icon%20in%20%3Cb%3E/www/wwwroot/bk.yyq520.com/index.php%3C/b%3E%20on%20line%20%3Cb%3E18%3C/b%3E%3Cbr%20/%3E",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "bk-yyq520-com-1z5jz3v",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://bk.yyq520.com/style.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://bk.yyq520.com/",
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Mon, 13 Sep 2021 00:57:12 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "set-cookie": [
+                    "PHPSESSID=t11nglnqjk4ac62b0kdej2k9fl; path=/"
+                ],
+                "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+                "cache-control": "no-store, no-cache, must-revalidate",
+                "pragma": "no-cache"
+            }
+        },
+        "time": {
+            "start": "2021-09-13T00:57:06.232Z",
+            "end": "2021-09-13T00:57:26.872Z"
+        },
+        "remark": [],
+        "ip": "43.129.157.82",
+        "url": "http://bk.yyq520.com/",
+        "main": "index.html",
+        "domain": "bk.yyq520.com",
+        "origin": "http://bk.yyq520.com",
+        "totalSize": "5.66 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://bk.yyq520.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
